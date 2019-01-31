@@ -1,4 +1,17 @@
+the git command :such a.txt file
+1.git add a.txt(also can use:git add *.txt)
+2.git commit a.txt
+(git status) ---find wether or not add commit all file to workpaces
 
+3.git push
+------------
+in github can use commaand
+1.git pull
+
+
+
+
+------------
 : wq (???wq?,?????vi) 
 : q! (??q!, ???????vi)
  i is insert
